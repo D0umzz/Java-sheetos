@@ -6,9 +6,12 @@ Useful for beginners, students, or anyone brushing up on core Java concepts.
 ---
 
 ## 📁 Folders
-- `sheet1/` – Solutions for Sheet 1
-- More coming soon...
-
+```bash
+sheet1/
+│   ├── Question1.java / Question2.java / Question3.java / Question4.java
+│   ├── Question5.java / Question6.java / Question7.java / Question8.java
+│   ├── Question9.java / Question10.java / Question11.java / Question12.java
+```
 ---
 
 ## 🎯 Purpose
