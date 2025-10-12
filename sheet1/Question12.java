@@ -16,5 +16,6 @@ public class Question12 {
         area=(n*Math.pow(length,2))/(4*Math.tan(Math.PI/n));
         System.out.println(area);
         input.close();
+        System.out.println("area");
     }
 }

@@ -9,7 +9,6 @@ public class Question5 {
         double gratuityRate;
         double gratuity;
         double total;
-        System.out.println("Sheet 1 - Question 4");
         System.out.print("Enter the subtotal and a gratuity rate: ");
         Scanner input=new Scanner(System.in);
         subtotal=input.nextDouble();

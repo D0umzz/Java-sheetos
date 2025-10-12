@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Question9 {
     public static void main(String[] args) {
-        System.out.println("Sheet 1 - Question 10");
+        System.out.println("Sheet 1 - Question 9");
         String ISBN;
         int d10;
         Scanner input=new Scanner(System.in);

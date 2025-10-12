@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Question4 {
     public static void main(String[] args) {
+        System.out.println("Sheet 1 - Question 4"); 
         double radius;
         double length;
         double area;
         double volume;
-        System.out.println("Sheet 1 - Question 4");
         System.out.print("Enter the radius and length of a cylinder: ");
         Scanner input=new Scanner(System.in);
         radius=input.nextDouble();
